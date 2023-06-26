@@ -7,4 +7,5 @@ W repozytorium znajduje się nasz projekt w postaci teoretycznej - szkielet dzia
 
 Teraz znajduje się w nim także pełny projekt w postaci fizycznej z małymi zmianami zastosowanymi wcześniej. Przerobiona została struktura bazy danych oraz format. Przerzucilismy się z front-end-owego Reacta i back-end-owego Expressa na PHP, HTML i CSS.
 
-autorzy: Michał Szczepański, Filip Stachowiak
+autorzy: Michał Szczepański, Filip Stachowiak, Adrian Dulęba
+
